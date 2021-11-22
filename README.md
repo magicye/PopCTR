@@ -1,3 +1,3 @@
 # PopCTR
 
-IJCAI 2021 workshop 
+Multi-modal CTR moddels on IJCAI 2021 workshop 
